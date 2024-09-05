@@ -5,7 +5,7 @@ The bank aims to enhance its marketing campaigns by attracting a larger number o
 
 # Key Stakeholders 
 Senior Managers
-  
+
   Segment Analysis: Insights into the effectiveness of campaigns across different customer segments, including demographic and behavioral data.
   
   Strategic Alignment: Reports demonstrating how the outcomes of marketing campaigns align with the bank’s strategic objectives and long-term goals.
@@ -18,8 +18,12 @@ Marketing Team
 
 # Insights 	
  Client Demographics:
-  
+
+![Screenshot 2024-09-05 at 4 41 56 pm](https://github.com/user-attachments/assets/af6dd15d-6b91-4e9f-96fc-409408d60217)
+    
   The average age of clients attracted through the campaigns is approximately 40 years (mean age = 40.91 years). This indicates that the campaigns are effective in engaging a mature demographic.
+  
+![Screenshot 2024-09-05 at 4 42 54 pm](https://github.com/user-attachments/assets/8bcc0f6b-a458-4a1b-b3ed-d73cb1c1563d)
 
   Married: The majority of attracted clients are married, comprising approximately 60.52% of the total. This indicates that the campaigns are particularly effective in reaching individuals within this marital status category.
 
@@ -27,10 +31,15 @@ Marketing Team
 	
  Campaign Engagement:
     
+![Screenshot 2024-09-05 at 4 49 40 pm](https://github.com/user-attachments/assets/30d9e407-21cf-4ac9-bf80-136f36cec714)
+ 
   On average, it requires 2 calls to successfully attract a client, with an average of 2.05 calls per client. This metric highlights the engagement level required to convert prospects into customers.
+  
     
   The average call duration for attracting clients is 9 minutes and 13 seconds. This suggests that a substantial amount of time is invested in each call to achieve successful client acquisition.
-    
+  
+  ![Screenshot 2024-09-05 at 4 50 21 pm](https://github.com/user-attachments/assets/60b82255-cd6e-49e3-8fd9-03593d9c8c2a)
+  
   The “student” category exhibits the longest average call duration at approximately 283.68 seconds (4 minutes and 43.68 seconds). This extended duration suggests that engaging students requires more in-depth discussions or more time to address their specific needs. 
   
   The “technician” category shows the shortest average call duration at approximately 250.23 seconds (4 minutes and 10.23 seconds). This shorter duration indicates that interactions with technicians may be more streamlined or require less detailed communication.
